@@ -10,7 +10,7 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - React ✅
 - React Native ✅
 - Next Js ✅
-- Flutter ⏳
+- Flutter ✅
 - Blockchain Development/web3 ⏳
 - Algo & DS ⏳
 
