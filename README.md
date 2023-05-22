@@ -11,7 +11,8 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - React Native ✅
 - Next Js ✅
 - Flutter ✅
-- Blockchain Development/web3 ⏳
+- Ruby ⏳
 - Algo & DS ⏳
+- Blockchain Development/web3 ⏳
 
 [Email me 👍](mailto:ayanfe.dev@gmail.com) 
